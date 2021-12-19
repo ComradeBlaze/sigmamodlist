@@ -15,7 +15,6 @@ Cloth API - https://www.curseforge.com/minecraft/mc-mods/cloth-api
 Cloth Config v5 - https://www.curseforge.com/minecraft/mc-mods/cloth-config
 Command Macros - https://www.curseforge.com/minecraft/mc-mods/command-macros
 Concurrent Chunk Management Engine - https://github.com/RelativityMC/C2ME-fabric/releases
-ConnectedTexturesMod for Fabric - https://www.curseforge.com/minecraft/mc-mods/ctm-fabric - https://www.curseforge.com/minecraft/texture-packs/simple-ct
 Continuity - https://modrinth.com/mod/continuity/versions
 Cull Leaves - https://www.curseforge.com/minecraft/mc-mods/cull-leaves
 Custom Crosshair Mod - https://www.curseforge.com/minecraft/mc-mods/custom-crosshair-mod
@@ -35,6 +34,7 @@ Inventory HUD + - https://www.curseforge.com/minecraft/mc-mods/inventory-hud-for
 Iris - https://www.curseforge.com/minecraft/mc-mods/irisshaders
 Isometric Renders - https://www.curseforge.com/minecraft/mc-mods/isometric-renders
 KronHUD - https://www.curseforge.com/minecraft/mc-mods/kronhud
+Krypton - https://www.curseforge.com/minecraft/mc-mods/krypton
 LambDynamicLights - https://www.curseforge.com/minecraft/mc-mods/lambdynamiclights
 LazyDFU - https://www.curseforge.com/minecraft/mc-mods/lazydfu
 Litematica - https://www.curseforge.com/minecraft/mc-mods/litematica
@@ -69,6 +69,7 @@ Xaero's World Map - https://www.curseforge.com/minecraft/mc-mods/xaeros-world-ma
 
 # Unused Mods - i used to use them but they didn't work out or didn't need them anymore
 
+ConnectedTexturesMod for Fabric - https://www.curseforge.com/minecraft/mc-mods/ctm-fabric - https://www.curseforge.com/minecraft/texture-packs/simple-ct
 Voxelmap - https://www.curseforge.com/minecraft/mc-mods/voxelmap
 Starlight - https://github.com/PaperMC/Starlight
 WorldEditCUI - https://github.com/EngineHub/WorldEditCUI/releases/

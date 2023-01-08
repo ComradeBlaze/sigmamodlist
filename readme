@@ -1,4 +1,8 @@
-# Used Mods - what i use on a daily basis 
+This readme was just used by me to keep track of mods when migrating between versions. Occasionally i give it out when recommending mods to ppl. 
+It's messy and links might be broken. Organized list available at https://github.com/ComradeBlaze/sigmamodlist/blob/main/organized-by-category.txt
+Contact me if anything - @ComradeBlaze#5995 
+
+# General Modlist - what i use on a daily basis 
 
 3d Skin Layers - https://www.curseforge.com/minecraft/mc-mods/skin-layers-3d
 Advanced XRay (Fabric) - https://www.curseforge.com/minecraft/mc-mods/advanced-xray-fabric-edition
@@ -14,7 +18,6 @@ Bedrodium - https://modrinth.com/mod/bedrodium
 Better Beds - https://www.curseforge.com/minecraft/mc-mods/better-beds
 Better Ping Display - https://www.curseforge.com/minecraft/mc-mods/better-ping-display-fabric
 BetterF3 - https://www.curseforge.com/minecraft/mc-mods/betterf3
-Better Third Person - https://www.curseforge.com/minecraft/mc-mods/better-third-person
 Blockify - https://modrinth.com/mod/blockify
 Block Meter - https://www.curseforge.com/minecraft/mc-mods/blockmeterfabric
 Bobby - https://www.curseforge.com/minecraft/mc-mods/bobby
@@ -87,7 +90,7 @@ MoreMcmeta - https://modrinth.com/mod/moremcmeta
 MultiConnect - https://modrinth.com/mod/multiconnect
 Music Duration Reducer - https://www.curseforge.com/minecraft/mc-mods/music-duration-reducer
 MusicToggle - [private mod, dm for file]
-Name Lookup - https://modrinth.com/mod/name-lookup
+Name Lookup - https://www.curseforge.com/minecraft/mc-mods/name-lookup/
 narrator off - https://modrinth.com/mod/narrator-off
 No Chat Reports - https://modrinth.com/mod/no-chat-reports
 No Fade - https://www.curseforge.com/minecraft/mc-mods/no-fade
@@ -98,7 +101,6 @@ Pet Owner - https://www.curseforge.com/minecraft/mc-mods/pet-owner/files
 Phosphor - https://www.curseforge.com/minecraft/mc-mods/phosphor
 Playlist - https://modrinth.com/mod/playlist
 Puzzle - https://www.curseforge.com/minecraft/mc-mods/puzzle
-Quick Calc - https://modrinth.com/mod/quickcalc
 quickreplant - https://modrinth.com/mod/quickreplant
 Replay Mod - https://www.replaymod.com/download/
 ResolutionControl+ - https://www.curseforge.com/minecraft/mc-mods/resolutioncontrol
@@ -138,9 +140,14 @@ Xaero's World Map - https://www.curseforge.com/minecraft/mc-mods/xaeros-world-ma
 
 
 # Unused Mods - i used to use them but they didn't work out, are unmaintained, or didn't need them anymore
+(still good mods tho)
 
+Better Third Person - https://www.curseforge.com/minecraft/mc-mods/better-third-person
 ConnectedTexturesMod for Fabric - https://www.curseforge.com/minecraft/mc-mods/ctm-fabric - https://www.curseforge.com/minecraft/texture-packs/simple-ct
 DashLoader - https://modrinth.com/mod/dashloader
-Voxelmap - https://www.curseforge.com/minecraft/mc-mods/voxelmap
-Starlight - https://github.com/PaperMC/Starlight
 Hydrogen - https://github.com/CaffeineMC/hydrogen-fabric/releases
+Quick Calc - https://modrinth.com/mod/quickcalc
+Starlight - https://github.com/PaperMC/Starlight
+Voxelmap - https://www.curseforge.com/minecraft/mc-mods/voxelmap
+
+

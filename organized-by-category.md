@@ -1,9 +1,9 @@
-All mods are clientside and *should* work together. YMMV, but they work for me hey :3
+**All mods are clientside and *should* work together.**
+*YMMV, but they work for me hey :3*
 
-
+***
 ## aesthetics mods 
 *visual mods and such*
-***
 - 3d Skin Layers - https://www.curseforge.com/minecraft/mc-mods/skin-layers-3d
 - Animatica - https://modrinth.com/mod/animatica
 - Bobby - https://www.curseforge.com/minecraft/mc-mods/bobby
@@ -35,11 +35,9 @@ All mods are clientside and *should* work together. YMMV, but they work for me h
 - Wildfire's Gender Mod - https://www.curseforge.com/minecraft/mc-mods/female-gender-fabric
 - WindowThonk - https://modrinth.com/mod/windowthonk
 
-
-
+***
 ## 'cheaty' mods
 *dont install if you care abt keeping vanilla behaviour or something*
-***
 - Advanced XRay (Fabric) - https://www.curseforge.com/minecraft/mc-mods/advanced-xray-fabric-edition
 - Command Macros - https://www.curseforge.com/minecraft/mc-mods/command-macros
 - DiscJockey - https://modrinth.com/mod/disc-jockey
@@ -53,9 +51,9 @@ All mods are clientside and *should* work together. YMMV, but they work for me h
 - Tweakeroo - https://www.curseforge.com/minecraft/mc-mods/tweakeroo
 - Visible Barriers - https://www.curseforge.com/minecraft/mc-mods/visible-barriers
 
+***
 # HUD mods
 *stuff that's always on your screen*
-***
 - AppleSkin - https://www.curseforge.com/minecraft/mc-mods/appleskin
 - Better Ping Display - https://www.curseforge.com/minecraft/mc-mods/better-ping-display-fabric
 - BetterF3 - https://www.curseforge.com/minecraft/mc-mods/betterf3
@@ -68,11 +66,9 @@ All mods are clientside and *should* work together. YMMV, but they work for me h
 - ToroHealth - https://www.curseforge.com/minecraft/mc-mods/torohealth-damage-indicators
 - WorldEditCUI - https://github.com/EngineHub/WorldEditCUI/releases/
 
-
-
+***
 ## QoL mods
 *make life easier*
-***
 - AdvancementInfo - https://modrinth.com/mod/advancementinfo
 - Amecs - https://www.curseforge.com/minecraft/mc-mods/amecs
 - Auth Me - https://modrinth.com/mod/auth-me
@@ -105,11 +101,9 @@ All mods are clientside and *should* work together. YMMV, but they work for me h
 - Xaero's Minimap - https://www.curseforge.com/minecraft/mc-mods/xaeros-minimap
 - Xaero's World Map - https://www.curseforge.com/minecraft/mc-mods/xaeros-world-map
 
-
-
+***
 ## library/dependency mods
 *needed to make things work*
-***
 - Architectury API - https://modrinth.com/mod/architectury-api
 - Auto Config v1 Updated - https://www.curseforge.com/minecraft/mc-mods/auto-config-updated-api
 - Cloth API - https://www.curseforge.com/minecraft/mc-mods/cloth-api
@@ -118,11 +112,9 @@ All mods are clientside and *should* work together. YMMV, but they work for me h
 - Fabric Language Kotlin - https://www.curseforge.com/minecraft/mc-mods/fabric-language-kotlin
 - MaLiLib - https://www.curseforge.com/minecraft/mc-mods/malilib
 
-
-
+***
 ## optimization mods
 *game go zoom*
-***
 - Bedrodium - https://modrinth.com/mod/bedrodium
 - Better Beds - https://www.curseforge.com/minecraft/mc-mods/better-beds
 - Concurrent Chunk Management Engine - https://github.com/RelativityMC/C2ME-fabric/releases
@@ -153,11 +145,9 @@ All mods are clientside and *should* work together. YMMV, but they work for me h
 - Sodium Extra - https://www.curseforge.com/minecraft/mc-mods/sodium-extra
 - spark - https://www.curseforge.com/minecraft/mc-mods/spark
 
-
-
+***
 ## sound mods
 *what the hell was that sound*
-***
 - Background Music Selector - https://modrinth.com/mod/bgmselector
 - Blockify - https://modrinth.com/mod/blockify
 - ExtraSounds - https://modrinth.com/mod/extrasounds

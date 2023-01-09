@@ -52,7 +52,7 @@
 - Visible Barriers - https://www.curseforge.com/minecraft/mc-mods/visible-barriers
 
 ***
-# HUD mods
+## HUD mods
 *stuff that's always on your screen*
 - AppleSkin - https://www.curseforge.com/minecraft/mc-mods/appleskin
 - Better Ping Display - https://www.curseforge.com/minecraft/mc-mods/better-ping-display-fabric

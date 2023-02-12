@@ -1,3 +1,11 @@
+**This readme was created by me to keep track of mods when migrating between versions.** (yes im aware ferrium exists now)
+
+Occasionally I give it out when recommending mods to people and stuff.
+
+Links might be broken, will reformat later to use Modrinth whenever possible.
+
+Contact me if anything - @ComradeBlaze#5995
+
 **All mods are clientside and *should* work together.**
 *YMMV, but they work for me hey :3*
 

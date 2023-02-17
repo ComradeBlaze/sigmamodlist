@@ -10,6 +10,7 @@ Links might be broken, contact me if anything - @ComradeBlaze#5995
 ***
 ## aesthetics mods 
 *visual mods and such*
+<details>
 - 3d Skin Layers - https://modrinth.com/mod/3dskinlayers
 - Animatica - https://modrinth.com/mod/animatica
 - Bobby - https://modrinth.com/mod/bobby
@@ -40,7 +41,7 @@ Links might be broken, contact me if anything - @ComradeBlaze#5995
 - Smooth Swapping - https://modrinth.com/mod/smooth-swapping
 - Wildfire's Gender Mod - https://modrinth.com/mod/female-gender
 - WindowThonk - https://modrinth.com/mod/windowthonk
-
+</details>
 ***
 ## 'cheaty' mods
 *dont install if you care abt keeping vanilla behaviour or something*

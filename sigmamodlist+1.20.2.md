@@ -2,9 +2,11 @@
 
 *italics* means mod is not updated to 1.20.2 (but is for 1.20.1) and/or appears to be in active development - these will likely be in use in the future.
 
-~~strikethrough~~ means mod has not been updated for newer versions and/or does not appear to be in active development. Mods that have been replaced with other mods have been moved to sigmamodlist/othermods.md
+~~strikethrough~~ means mod has not been updated for newer versions and/or does not appear to be in active development. 
 
 **bolded** mods are new additions (to-do)
+
+mods that have been replaced with other mods have been moved to [this page](sigmamodlist/othermods.md).
 
 ***
 ### aesthetics mods: 

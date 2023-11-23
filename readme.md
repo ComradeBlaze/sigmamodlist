@@ -1,62 +1,59 @@
-**This readme was created by me to keep track of mods when migrating between versions.** (yes im aware ferrium exists now)
+**This readme was created by me to keep track of mods when migrating between versions.** 
 
 Occasionally I give it out when recommending mods to people and stuff.
 
-Links might be broken, contact me if anything - @ComradeBlaze#5995
+Highly recommend downloading Prism Launcher and using the internal mod downloader instead of manually opening tabs and downloading jar files. 
 
-**All mods are clientside and *should* work together.**
-*YMMV, but they work for me hey :3*
 
-***
-## aesthetics mods 
-*visual mods and such*
-
-- 3d Skin Layers - https://modrinth.com/mod/3dskinlayers
-- Animatica - https://modrinth.com/mod/animatica
-- Bobby - https://modrinth.com/mod/bobby
-- Capes - https://modrinth.com/mod/capes
-- Camera Utils - https://modrinth.com/mod/camera-utils
-- Chat Heads - https://modrinth.com/mod/chat-heads
-- Clear Despawn - https://modrinth.com/mod/cleardespawn
-- Continuity - https://modrinth.com/mod/continuity/versions
-- Custom Crosshair Mod - https://modrinth.com/mod/custom-crosshair-mod
-- Custom Selection Box - https://modrinth.com/mod/custom-selection-box
-- Do a Barrel Roll - https://modrinth.com/mod/do-a-barrel-roll
-- Enhanced Attack Indicator - https://modrinth.com/mod/enhanced-attack-indicator
-- Hat List - https://modrinth.com/mod/hatlist
-- Hitbox+ - https://modrinth.com/mod/hitboxplus
-- Iris Shaders - https://modrinth.com/mod/iris
-- Isometric Renders - https://modrinth.com/mod/isometric-renders
-- LambDynamicLights - https://modrinth.com/mod/lambdynamiclights
-- MicroBloat - https://modrinth.com/mod/micro-bloat
-- MinecraftCapes Mod - https://modrinth.com/mod/minecraftcapes
-- MoreChatHistory - https://modrinth.com/mod/morechathistory
-- MoreMcmeta - https://modrinth.com/mod/moremcmeta
-- No Fade - https://modrinth.com/mod/no-fade
-- Perspective Mod Redux - https://modrinth.com/mod/perspective-mod-redux
-- Pet Owner - https://modrinth.com/mod/petowner
-- Replay Mod - https://modrinth.com/mod/replaymod
-- ResolutionControl+ - https://modrinth.com/mod/resolution-control-plus
-- Smooth Scrolling Everywhere - https://www.curseforge.com/minecraft/mc-mods/smooth-scrolling-everywhere-fabric
-- Smooth Swapping - https://modrinth.com/mod/smooth-swapping
-- Wildfire's Gender Mod - https://modrinth.com/mod/female-gender
-- WindowThonk - https://modrinth.com/mod/windowthonk
+|aesthetics mods: *visuals, graphical changes and such*|
+|---|
+[3d Skin Layers](https://modrinth.com/mod/3dskinlayers)|
+[Animatica](https://modrinth.com/mod/animatica)|
+[Bobby](https://modrinth.com/mod/bobby)|
+[Capes](https://modrinth.com/mod/capes)|
+[Camera Utils](https://modrinth.com/mod/camera-utils)|
+[Chat Heads](https://modrinth.com/mod/chat-heads)|
+[Clear Despawn](https://modrinth.com/mod/cleardespawn)|
+[Continuity](https://modrinth.com/mod/continuity/versions)|
+[Custom Crosshair Mod](https://modrinth.com/mod/custom-crosshair-mod)|
+[Custom Selection Box](https://modrinth.com/mod/custom-selection-box)|
+[Do a Barrel Roll](https://modrinth.com/mod/do-a-barrel-roll)|
+[Enhanced Attack Indicator](https://modrinth.com/mod/enhanced-attack-indicator)|
+[Hat List](https://modrinth.com/mod/hatlist)|
+[Hitbox+](https://modrinth.com/mod/hitboxplus)|
+[Iris Shaders](https://modrinth.com/mod/iris)|
+[Isometric Renders](https://modrinth.com/mod/isometric-renders)|
+[LambDynamicLights](https://modrinth.com/mod/lambdynamiclights)|
+[MicroBloat](https://modrinth.com/mod/micro-bloat)|
+[MinecraftCapes Mod](https://modrinth.com/mod/minecraftcapes)|
+[MoreChatHistory](https://modrinth.com/mod/morechathistory)|
+[MoreMcmeta](https://modrinth.com/mod/moremcmeta)|
+[No Fade](https://modrinth.com/mod/no-fade)|
+[Perspective Mod Redux](https://modrinth.com/mod/perspective-mod-redux)
+[Pet Owner](https://modrinth.com/mod/petowner)
+[Replay Mod](https://modrinth.com/mod/replaymod)
+[ResolutionControl+](https://modrinth.com/mod/resolution-control-plus)
+[Smooth Scrolling Everywhere](https://www.curseforge.com/minecraft/mc-mods/smooth-scrolling-everywhere-fabric)
+[Smooth Swapping](https://modrinth.com/mod/smooth-swapping)
+[Wildfire's Gender Mod](https://modrinth.com/mod/female-gender)
+[WindowThonk](https://modrinth.com/mod/windowthonk)
 
 ***
-## 'cheaty' mods
-*dont install if you care abt keeping vanilla behaviour or something*
-- Advanced XRay (Fabric) - https://www.curseforge.com/minecraft/mc-mods/advanced-xray-fabric-edition
-- Command Macros - https://modrinth.com/mod/command-macros
-- DiscJockey - https://modrinth.com/mod/disc-jockey
-- Flour's Various Tweaks - https://modrinth.com/mod/fvt
-- Litematica Printer - https://modrinth.com/mod/litematica-printer
-- Robin Hood - https://modrinth.com/mod/robinhood
-- seedcrackerX - https://github.com/19MisterX98/SeedcrackerX
-- SeedMapper - https://modrinth.com/mod/seedmapper
-- Stronghold Finder - https://modrinth.com/mod/strongholdfinder
-- TweakerMore - https://modrinth.com/mod/tweakermore
-- Tweakeroo - https://www.curseforge.com/minecraft/mc-mods/tweakeroo
-- Visible Barriers - https://modrinth.com/mod/visible-barriers
+
+|'cheaty' mods: *mods that allow for non-vanilla behaviour*| 
+|---|
+[Advanced XRay (Fabric)](https://www.curseforge.com/minecraft/mc-mods/advanced-xray-fabric-edition)|
+[Command Macros](https://modrinth.com/mod/command-macros)|
+[DiscJockey](https://modrinth.com/mod/disc-jockey)|
+[Flour's Various Tweaks](https://modrinth.com/mod/fvt)|
+[Litematica Printer](https://modrinth.com/mod/litematica-printer)|
+[Robin Hood](https://modrinth.com/mod/robinhood)|
+[seedcrackerX](https://github.com/19MisterX98/SeedcrackerX)|
+[SeedMapper](https://modrinth.com/mod/seedmapper)|
+[Stronghold Finder](https://modrinth.com/mod/strongholdfinder)|
+[TweakerMore](https://modrinth.com/mod/tweakermore)|
+[Tweakeroo](https://www.curseforge.com/minecraft/mc-mods/tweakeroo)|
+[Visible Barriers](https://modrinth.com/mod/visible-barriers)|
 
 ***
 ## HUD mods

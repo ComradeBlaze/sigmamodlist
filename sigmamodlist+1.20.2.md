@@ -40,13 +40,12 @@ mods that have been replaced with other mods have been moved to [this page](sigm
 - [MoreMcmeta](https://modrinth.com/mod/moremcmeta)
 - <s>[No Fade](https://modrinth.com/mod/no-fade)</s>
 - **[No Hotbar Looping](https://modrinth.com/mod/nohotbarlooping)**
-- *[Perspective Mod Redux](https://modrinth.com/mod/perspective-mod-redux)* (replaced with Perspektive)
 - **[Perspektive](https://modrinth.com/mod/perspektive)**
 - [Pet Owner](https://modrinth.com/mod/petowner)
 - [Replay Mod](https://modrinth.com/mod/replaymod)
 - [ResolutionControl+](https://modrinth.com/mod/resolution-control-plus)
 - **[Seamless](https://modrinth.com/mod/seamless)**
-- <s>[Smooth Scrolling Everywhere](https://www.curseforge.com/minecraft/mc-mods/smooth-scrolling-everywhere-fabric)</s>
+- **[Smooth Scrolling Refurbished](https://modrinth.com/mod/smooth-scrolling-refurbished)**
 - [Smooth Swapping](https://modrinth.com/mod/smooth-swapping)
 - **[Sorted Enchantments](https://modrinth.com/mod/sorted-enchantments)**
 - **[Totem Party Popper](https://modrinth.com/mod/totem-party-popper)**
@@ -83,7 +82,6 @@ mods that have been replaced with other mods have been moved to [this page](sigm
 - *[KronHUD](https://modrinth.com/mod/kronhud)*
 - *[Map in Slot](https://modrinth.com/mod/map-in-slot)*
 - [MiniHUD](https://www.curseforge.com/minecraft/mc-mods/minihud)
-- [Shulker Box Tooltip](https://modrinth.com/mod/shulkerboxtooltip) (redundant via Tweakaroo)
 - <s>[ToroHealth](https://www.curseforge.com/minecraft/mc-mods/torohealth-damage-indicators)</s>
 - [WorldEditCUI](https://github.com/EngineHub/WorldEditCUI/releases/)
 
@@ -110,7 +108,6 @@ mods that have been replaced with other mods have been moved to [this page](sigm
 - [Logical Zoom](https://modrinth.com/mod/logical-zoom)
 - <s>[Map Saver](https://modrinth.com/mod/map-saver)</s>
 - [Mod Menu](https://modrinth.com/mod/modmenu)
-- <s>[MultiConnect](https://modrinth.com/mod/multiconnect)</s> (replaced with ViaFabricPlus)
 - **[NBT Autocomplete](https://modrinth.com/mod/nbt-autocomplete)**
 - [No Chat Reports](https://modrinth.com/mod/no-chat-reports)
 - [No Strip](https://modrinth.com/mod/no-strip)
@@ -119,7 +116,7 @@ mods that have been replaced with other mods have been moved to [this page](sigm
 - **[Pick Block Pro](https://modrinth.com/mod/pick-block-pro)**
 - [Puzzle](https://modrinth.com/mod/puzzle)
 - **[Quick Hotkeys](https://modrinth.com/mod/quick_hotkeys)**
-- <s>[quickreplant](https://modrinth.com/mod/quickreplant)</s> (replaced with replanterplus)
+- ***[Replanter Plus](https://modrinth.com/mod/replanter-plus)***
 - *[Sign Tools](https://www.curseforge.com/minecraft/mc-mods/sign-tools)*
 - *[Skin Swapper](https://modrinth.com/mod/skinswapper)*
 - **[Sort](https://modrinth.com/mod/sort)**
@@ -181,7 +178,6 @@ mods that have been replaced with other mods have been moved to [this page](sigm
 - *[MoreCulling](https://modrinth.com/mod/moreculling)*
 - <s>[Phosphor](https://modrinth.com/mod/phosphor)</s>
 - [Smoke Suppression](https://modrinth.com/mod/smoke-suppression)
-- <s>[Smooth Boot](https://modrinth.com/mod/smoothboot-fabric)</s> (replaced with ThreadTweak)
 - [Sodium](https://modrinth.com/mod/sodium)
 - [Sodium Extra](https://modrinth.com/mod/sodium-extra)
 - [spark](https://modrinth.com/mod/spark)

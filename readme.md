@@ -1,7 +1,7 @@
 **This readme was created by me to keep track of mods when migrating between versions.** 
 
 Alternatively, here's links to the mods via Modrinth Collection: 
-(note these do not include mods that are outdated or not on mondrinth)
+(note these do not include mods that are outdated or not on Modrinth)
 
 [Aesthetics](https://modrinth.com/collection/6eJhPb9T)
 
